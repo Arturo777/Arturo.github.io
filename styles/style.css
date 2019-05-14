@@ -1,0 +1,38 @@
+html {
+  font-size:10px;
+font-family: 'Gugi', cursive;
+background-color: #ffad33;
+
+}
+
+h1, h2 {
+	margin: 0;
+  font-size: 70px;
+  text-align: center;
+  color: yellow;
+  text-shadow: 3px 3px 1px black;
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+    color: yellow;
+    text-shadow: 3px 3px 1px black;
+
+}
+
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff0000;
+  padding: 0 20px 20px 2px;
+  border: 12px solid black;
+}
